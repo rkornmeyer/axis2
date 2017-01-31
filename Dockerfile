@@ -13,4 +13,4 @@ apt-get update && \
 
 ENV JAVA_HOME /usr/lib/jvm/java-7-openjdk-amd64
 EXPOSE 8080
-CMD ["/opt/axis2-1.7.4-bin/bin/axis2server.sh"]
+
